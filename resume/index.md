@@ -3,22 +3,33 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Graduate Researcher at North Carolina State University.
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2008 - 2012`
+__University of Oklahoma__
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+Bachelor of Science in Meteorology, minor in Mathematics
+
+Graduated with distinction
+
+`2012 - 2014`
+__North Carolina State University__
+
+Master of Science in Atmospheric Sciences
+
+Graduate Certificate in Geographic Information Systems
+
+`2015 - present`
+__North Carolina State University__
+
+PhD in Atmospheric Sciences
 
 ## Awards
 
 `2012`
-Name of Award, Organization 
+Name of Award, Organization
 
 ## Publications
 
@@ -50,13 +61,13 @@ Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Lin
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Current Job Title__, Current Employer
 
 - Task
 - Task
 
 `1994-1996`
-__Current Job Title__, Current Employer 
+__Current Job Title__, Current Employer
 
 - Task
 - Task
@@ -66,5 +77,3 @@ __Current Job Title__, Current Employer
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
